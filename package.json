@@ -1,0 +1,29 @@
+{
+  "name": "grunt-amd-commonjs-wrapper",
+  "version": "0.0.3",
+  "description": "Convert AMD Modules with declared dependencies into the Simplified CommonJS Wrapper style",
+  "license": "MIT",
+  "repository": "pwmckenna/grunt-amd-commonjs-wrapper",
+  "author": {
+    "name": "Patrick Williams",
+    "email": "pwmckenna@gmail.com",
+    "url": "http://pwmckenna.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt travis-lint"
+  },
+  "files": [
+    "tasks"
+  ],
+  "keywords": [],
+  "dependencies": {
+    "travis-lint": "0.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}
