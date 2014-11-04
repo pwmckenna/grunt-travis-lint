@@ -1,9 +1,9 @@
 {
-  "name": "grunt-amd-commonjs-wrapper",
-  "version": "0.0.1",
-  "description": "Convert AMD Modules with declared dependencies into the Simplified CommonJS Wrapper style",
+  "name": "grunt-travis-lint",
+  "version": "0.0.0",
+  "description": "Lint your travis.yml file",
   "license": "MIT",
-  "repository": "pwmckenna/grunt-amd-commonjs-wrapper",
+  "repository": "pwmckenna/grunt-travis-lint",
   "author": {
     "name": "Patrick Williams",
     "email": "pwmckenna@gmail.com",
