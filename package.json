@@ -1,6 +1,6 @@
 {
   "name": "grunt-travis-lint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lint your travis.yml file",
   "license": "MIT",
   "repository": "pwmckenna/grunt-travis-lint",
@@ -18,7 +18,10 @@
   "files": [
     "tasks"
   ],
-  "keywords": ["gruntplugin", "travis"],
+  "keywords": [
+    "gruntplugin",
+    "travis"
+  ],
   "dependencies": {
     "travis-lint": "0.0.4"
   },
