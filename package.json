@@ -18,7 +18,7 @@
   "files": [
     "tasks"
   ],
-  "keywords": [],
+  "keywords": ["gruntplugin", "travis"],
   "dependencies": {
     "travis-lint": "0.0.4"
   },
